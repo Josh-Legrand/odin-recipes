@@ -1,2 +1,2 @@
 # odin-recipes
-This project is a simple Main "site" that list three other food optins in which describe ans give step by step how to recreate the listed food item
+This project is a simple main "site" that list three other food options. User can click links to three different types of foods.
