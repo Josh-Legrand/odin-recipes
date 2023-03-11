@@ -1,0 +1,38 @@
+@font-face {
+    font-family:"Odin";
+    src: url(tasty-birds/Tasty_Birds_Sans.otf);
+}
+
+@font-face {
+    font-family:"Main";
+    src: url(Bebas_Neue/BebasNeue-Regular.ttf);
+}
+h1,h2,p{
+    text-align:center;
+    font-family:"Odin"
+}
+body{
+    background-color:rgb(163, 158, 48);
+}
+.container{
+    height:auto;
+    width:300px;
+    margin:auto;
+    margin-bottom:10px;
+   
+    
+    
+}
+figcaption {
+ background-color:rgb(84, 92, 54);
+  color: white;
+  text-align: center;
+  height:40px;
+  font-family: "Main";
+  font-size:24px;
+
+}
+.rice,.tacos,.mac{
+    height:auto;
+    width:300px;
+}
